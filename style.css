@@ -38,11 +38,15 @@ body{
     border: solid 1px;
     border-color: rgb(7, 201, 226);
     height: 80%;
-    width: 80%;
+    width: 70%;
     margin:auto;
     margin-top: 5%;
     padding: 10px;
     gap: 20%;
+}
+.image{
+    margin-top: 0px;
+    
 }
 
 
@@ -83,4 +87,5 @@ body{
 border: none;
    
 }
+
 
