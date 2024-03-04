@@ -46,3 +46,41 @@ body{
 }
 
 
+
+
+.container{
+    
+    float: inline-start;
+    margin-top: 90px;
+    margin-right: 200px;
+    margin-bottom:  100px;
+    margin-left: 95px;
+}
+
+#front{
+    font-weight: bold;
+    font-size: 55px;
+}
+
+#btn1{
+    border:none;
+    background-color: rgb(174, 243, 71);
+    padding: 10px 15px;
+    cursor: zoom-in;
+    
+}
+#btn2{
+    border: none;
+    cursor: zoom-in;
+}
+#handImg{
+    margin-left: 210px;
+    width: 60px;
+
+}
+#arrow{
+    width: 30px;
+border: none;
+   
+}
+
